@@ -6,5 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Fun Fact:");
         System.out.println("I've watched over 100 Anime during Covid");
+        System.out.println("BucketList :");
+        System.out.println("I would like to go hunting at least a few times");
     }
 }
