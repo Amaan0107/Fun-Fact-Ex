@@ -5,6 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Fun Fact:");
-        System.out.println("TODO: replace this text in a Git branch.");
+        System.out.println("I've watched over a 100 Animes during the pandemic");
     }
 }
